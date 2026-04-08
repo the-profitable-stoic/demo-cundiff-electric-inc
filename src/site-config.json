@@ -1,0 +1,566 @@
+{
+  "business": {
+    "name": "Cundiff Electric Inc",
+    "phone": "+15025584635",
+    "category": "electrician",
+    "city": "Louisville",
+    "state": "KY"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Louisville's Trusted Electricians",
+      "heroSubline": "Powering Louisville homes and businesses with reliable electrical services. Decades of experience tackling Kentucky's toughest electrical challenges.",
+      "aboutTitle": "Reliable Electrical Solutions for Louisville",
+      "aboutText": [
+        "Cundiff Electric Inc. has been serving the Louisville community for over a decade. Founded by seasoned electricians with a passion for quality workmanship and customer satisfaction, we've built a reputation for excellence in every project we undertake.",
+        "Our approach is simple: prioritize safety, deliver exceptional results, and treat every customer with respect. We understand the unique electrical needs of Louisville homes and businesses, from dealing with older wiring in historic neighborhoods to installing cutting-edge systems in new developments.",
+        "We're committed to being a responsible member of the Louisville community. We actively support local initiatives and strive to minimize our environmental impact through sustainable practices. When you choose Cundiff Electric, you're choosing a company that cares about Louisville."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Professionals",
+          "description": "Our team consists of licensed and highly trained electricians with years of experience in the Louisville area."
+        },
+        {
+          "title": "24/7 Emergency Service",
+          "description": "Electrical emergencies don't wait for business hours. We're available around the clock to handle urgent situations."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "We provide clear and transparent pricing with no hidden fees. You'll know exactly what to expect before we start any work."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work and are committed to ensuring your complete satisfaction. Your safety and peace of mind are our top priorities."
+        }
+      ],
+      "ctaHeadline": "Get a Free Electrical Estimate Today",
+      "ctaSubline": "Contact Cundiff Electric Inc. for reliable electrical services in Louisville and surrounding areas. Call +15025584635"
+    },
+    "services": [
+      {
+        "slug": "electrical-repair",
+        "name": "Electrical Repair Services",
+        "shortDescription": "Fast and reliable electrical repairs for your Louisville home or business.",
+        "description": "From flickering lights to complete power outages, electrical problems can disrupt your life and pose serious safety hazards. At Cundiff Electric, we offer comprehensive electrical repair services to address any issue you may encounter. Our experienced electricians are equipped to diagnose and repair electrical problems quickly and efficiently, ensuring the safety and functionality of your electrical system.\n\nWe handle a wide range of electrical repairs, including faulty wiring, damaged outlets, broken circuit breakers, and malfunctioning appliances. We understand the importance of prompt service, especially during emergencies. That's why we offer 24/7 emergency repair services to address urgent electrical problems and minimize potential risks. Our team is familiar with the older wiring systems common in neighborhoods like Old Louisville, as well as the demands of modern electrical systems in newer developments.\n\nWe use only high-quality materials and follow strict safety protocols to ensure lasting repairs that meet or exceed industry standards. Our goal is to provide you with peace of mind knowing that your electrical system is in safe and reliable hands. We'll always explain the problem clearly and provide you with upfront pricing before starting any work.",
+        "process": [
+          "Step 1: Contact us to schedule a repair appointment.",
+          "Step 2: Our electrician will arrive on time and assess the problem.",
+          "Step 3: We'll provide you with a clear explanation of the issue and a detailed quote.",
+          "Step 4: Upon your approval, we'll complete the repair quickly and efficiently."
+        ],
+        "benefits": [
+          "Fast and reliable repairs",
+          "24/7 emergency service",
+          "Experienced and licensed electricians",
+          "Upfront pricing",
+          "Guaranteed satisfaction"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to an electrical emergency?",
+            "answer": "We offer 24/7 emergency service and strive to respond to urgent calls as quickly as possible. Our response time will depend on our current workload and your location within the Louisville area."
+          },
+          {
+            "question": "Are your electricians licensed and insured?",
+            "answer": "Yes, all of our electricians are fully licensed and insured. We adhere to the highest standards of safety and professionalism."
+          },
+          {
+            "question": "What types of electrical repairs do you handle?",
+            "answer": "We handle a wide range of electrical repairs, including faulty wiring, damaged outlets, broken circuit breakers, and malfunctioning appliances. No job is too big or too small."
+          }
+        ]
+      },
+      {
+        "slug": "electrical-installation",
+        "name": "Electrical Installation Services",
+        "shortDescription": "Professional electrical installations for homes and businesses in Louisville.",
+        "description": "Whether you're building a new home in the Louisville suburbs, renovating an existing property in the Highlands, or upgrading your commercial space in NuLu, Cundiff Electric offers comprehensive electrical installation services to meet your needs. Our experienced electricians are skilled in all aspects of electrical installation, from wiring and lighting to panel upgrades and generator installations.\n\nWe work closely with homeowners, contractors, and business owners to ensure that every installation is completed to the highest standards of quality and safety. We understand the unique challenges presented by Louisville's diverse housing stock, from older homes with outdated wiring to new construction projects with complex electrical demands. We are also very familiar with the electrical needs of local businesses, including restaurants, breweries, and distilleries.\n\nOur installation services include: new construction wiring, lighting design and installation, panel upgrades, generator installation, appliance wiring, and electrical safety inspections. We use only high-quality materials and follow strict safety protocols to ensure lasting performance and compliance with all local codes. We're committed to providing you with a safe, reliable, and energy-efficient electrical system that meets your specific needs.",
+        "process": [
+          "Step 1: Contact us to discuss your electrical installation needs.",
+          "Step 2: We'll provide you with a detailed quote based on your project requirements.",
+          "Step 3: Our electricians will complete the installation efficiently and professionally.",
+          "Step 4: We'll conduct a thorough inspection to ensure everything is working properly."
+        ],
+        "benefits": [
+          "Safe and reliable installations",
+          "Experienced and licensed electricians",
+          "High-quality materials",
+          "Compliance with local codes",
+          "Energy-efficient solutions"
+        ],
+        "faq": [
+          {
+            "question": "Do you offer free estimates for electrical installations?",
+            "answer": "Yes, we offer free estimates for all electrical installation projects. Contact us to schedule a consultation."
+          },
+          {
+            "question": "How long will my electrical installation take?",
+            "answer": "The duration of the installation will depend on the scope and complexity of the project. We'll provide you with a realistic timeline during the estimate process."
+          },
+          {
+            "question": "Do you handle permits and inspections?",
+            "answer": "Yes, we can handle all necessary permits and inspections to ensure compliance with local regulations."
+          }
+        ]
+      },
+      {
+        "slug": "lighting-services",
+        "name": "Lighting Services",
+        "shortDescription": "Enhance your Louisville property with expert lighting design and installation.",
+        "description": "Proper lighting can transform the look and feel of your home or business. At Cundiff Electric, we offer a full range of lighting services to enhance the ambiance, functionality, and energy efficiency of your property. Whether you're looking to upgrade your existing lighting fixtures, install new lighting in a remodeled space, or create a custom lighting design for your outdoor living area, we have the expertise to bring your vision to life.\n\nWe specialize in a variety of lighting solutions, including recessed lighting, track lighting, pendant lighting, landscape lighting, and security lighting. We work with a wide range of lighting styles and technologies, including LED lighting, which offers significant energy savings and long-lasting performance. Our team is familiar with the unique lighting needs of Louisville homes and businesses, from the charm of historic homes in Old Louisville to the modern aesthetics of NuLu lofts.\n\nWe offer comprehensive lighting design services to help you create the perfect lighting scheme for your space. We'll consider factors such as room size, ceiling height, natural light, and your personal preferences to develop a lighting plan that maximizes both functionality and aesthetics. We also offer professional lighting installation services to ensure that your new lighting is installed safely and correctly.",
+        "process": [
+          "Step 1: Schedule a consultation to discuss your lighting needs and preferences.",
+          "Step 2: We'll develop a custom lighting design plan for your space.",
+          "Step 3: We'll provide you with a detailed quote for the lighting installation.",
+          "Step 4: Our electricians will complete the installation efficiently and professionally."
+        ],
+        "benefits": [
+          "Enhanced ambiance and functionality",
+          "Energy-efficient lighting solutions",
+          "Custom lighting design",
+          "Professional installation",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of LED lighting?",
+            "answer": "LED lighting offers significant energy savings, long-lasting performance, and reduced maintenance costs. It's also more environmentally friendly than traditional lighting options."
+          },
+          {
+            "question": "Can you help me choose the right lighting fixtures for my home?",
+            "answer": "Yes, we offer lighting design services to help you select the perfect fixtures for your style and budget."
+          },
+          {
+            "question": "Do you offer outdoor lighting services?",
+            "answer": "Yes, we offer a full range of outdoor lighting services, including landscape lighting, security lighting, and patio lighting."
+          }
+        ]
+      },
+      {
+        "slug": "panel-upgrades",
+        "name": "Electrical Panel Upgrades",
+        "shortDescription": "Upgrade your electrical panel for improved safety and performance in Louisville.",
+        "description": "Is your electrical panel outdated, overloaded, or showing signs of wear and tear? An electrical panel upgrade can improve the safety and performance of your electrical system, ensuring that it can handle the demands of modern appliances and electronics. At Cundiff Electric, we offer professional electrical panel upgrade services for homes and businesses in Louisville.\n\nAn outdated electrical panel can pose a fire hazard and may not be able to handle the electrical load of modern appliances and electronics. Signs that you may need an electrical panel upgrade include frequent tripped breakers, flickering lights, and a burning smell coming from the panel. We understand that many older homes in areas like Old Louisville and the Highlands were built with electrical panels that are no longer adequate for today's electrical needs.\n\nOur experienced electricians can assess your current electrical panel and recommend the appropriate upgrade to meet your specific needs. We'll handle all aspects of the upgrade process, from disconnecting the old panel to installing the new one and ensuring that everything is working properly. We use only high-quality electrical panels and follow strict safety protocols to ensure a safe and reliable installation.",
+        "process": [
+          "Step 1: Schedule an assessment of your electrical panel.",
+          "Step 2: We'll recommend the appropriate upgrade based on your needs.",
+          "Step 3: We'll provide you with a detailed quote for the panel upgrade.",
+          "Step 4: Our electricians will complete the upgrade safely and efficiently."
+        ],
+        "benefits": [
+          "Improved safety",
+          "Increased electrical capacity",
+          "Reduced risk of electrical fires",
+          "Enhanced performance",
+          "Compliance with local codes"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need an electrical panel upgrade?",
+            "answer": "Signs that you may need an upgrade include frequent tripped breakers, flickering lights, and a burning smell coming from the panel."
+          },
+          {
+            "question": "How long does an electrical panel upgrade take?",
+            "answer": "An electrical panel upgrade typically takes one to two days to complete."
+          },
+          {
+            "question": "Do I need a permit for an electrical panel upgrade?",
+            "answer": "Yes, a permit is required for an electrical panel upgrade. We'll handle all necessary permits and inspections."
+          }
+        ]
+      },
+      {
+        "slug": "generator-installation",
+        "name": "Generator Installation",
+        "shortDescription": "Protect your Louisville home from power outages with a reliable generator.",
+        "description": "Louisville's weather can be unpredictable, with spring storms and winter ice capable of knocking out power for extended periods. A generator provides a reliable backup power source to keep your lights on, your appliances running, and your family safe during a power outage. At Cundiff Electric, we offer professional generator installation services for homes and businesses in Louisville.\n\nWe can help you choose the right generator for your needs, whether you're looking for a portable generator to power essential appliances or a whole-house generator that can keep your entire home running during an outage. We offer a wide range of generator brands and models to fit your budget and power requirements. We are also experienced in installing automatic transfer switches, which automatically switch to generator power when the utility power goes out.\n\nOur experienced electricians will handle all aspects of the generator installation, from connecting the generator to your electrical system to ensuring that it is properly vented and grounded. We'll also provide you with instructions on how to operate and maintain your generator to ensure that it's ready when you need it most.",
+        "process": [
+          "Step 1: Schedule a consultation to discuss your generator needs.",
+          "Step 2: We'll recommend the appropriate generator for your home or business.",
+          "Step 3: We'll provide you with a detailed quote for the generator installation.",
+          "Step 4: Our electricians will complete the installation safely and efficiently."
+        ],
+        "benefits": [
+          "Reliable backup power",
+          "Protection from power outages",
+          "Increased safety",
+          "Peace of mind",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "What size generator do I need?",
+            "answer": "The size of generator you need will depend on the amount of power you want to be able to generate. We can help you determine the appropriate size based on your needs."
+          },
+          {
+            "question": "Do I need a permit for generator installation?",
+            "answer": "Yes, a permit is typically required for generator installation. We'll handle all necessary permits and inspections."
+          },
+          {
+            "question": "How often should I service my generator?",
+            "answer": "We recommend servicing your generator at least once a year to ensure that it's running properly."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-electrical-services",
+        "name": "Commercial Electrical Services",
+        "shortDescription": "Comprehensive electrical solutions for Louisville businesses.",
+        "description": "Cundiff Electric provides comprehensive electrical services for businesses throughout Louisville. We understand the unique electrical demands of commercial properties, from retail stores and restaurants to office buildings and industrial facilities. Our experienced electricians are equipped to handle any electrical project, big or small, ensuring that your business operates safely and efficiently.\n\nWe offer a wide range of commercial electrical services, including: electrical system design and installation, lighting upgrades, panel upgrades, generator installation, data cabling, and electrical maintenance. We understand the importance of minimizing downtime, so we work quickly and efficiently to complete projects on time and within budget. We are familiar with the electrical codes and regulations specific to Louisville businesses and ensure that all of our work meets or exceeds those standards.\n\nWhether you're opening a new business in NuLu, renovating an existing space in St. Matthews, or need ongoing electrical maintenance for your industrial facility, Cundiff Electric is here to provide you with reliable and professional service. We pride ourselves on building long-term relationships with our clients and becoming a trusted partner for all of their electrical needs.",
+        "process": [
+          "Step 1: Contact us to discuss your commercial electrical needs.",
+          "Step 2: We'll provide you with a detailed quote based on your project requirements.",
+          "Step 3: Our electricians will complete the work efficiently and professionally.",
+          "Step 4: We'll conduct a thorough inspection to ensure everything is working properly."
+        ],
+        "benefits": [
+          "Safe and reliable electrical systems",
+          "Experienced and licensed electricians",
+          "Minimizing downtime",
+          "Compliance with local codes",
+          "Long-term partnerships"
+        ],
+        "faq": [
+          {
+            "question": "Do you offer emergency electrical services for businesses?",
+            "answer": "Yes, we offer 24/7 emergency electrical services for businesses in Louisville."
+          },
+          {
+            "question": "Can you help me with lighting upgrades for my business?",
+            "answer": "Yes, we offer a full range of lighting upgrade services, including LED lighting conversions."
+          },
+          {
+            "question": "Do you offer electrical maintenance contracts for businesses?",
+            "answer": "Yes, we offer customized electrical maintenance contracts to keep your business running smoothly."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Louisville",
+        "slug": "louisville-ky",
+        "state": "KY",
+        "content": "Cundiff Electric Inc is proud to provide top-quality electrical services to the residents and businesses of Louisville, Kentucky. As a locally owned and operated company, we understand the unique electrical needs of our community, from historic homes in Old Louisville to modern commercial spaces downtown. Our team of licensed and experienced electricians is committed to delivering safe, reliable, and efficient solutions for all your electrical needs.\n\nWhether you're facing a minor repair, require a complete home rewiring, or need assistance with commercial electrical installations, Cundiff Electric Inc is here to help. We prioritize customer satisfaction and strive to exceed your expectations with every project. We are dedicated to providing prompt, professional, and affordable services throughout the Louisville metro area. \n",
+        "localContext": "Louisville is known for its vibrant culture, bourbon distilleries, and the Kentucky Derby. We understand the specific electrical needs of this diverse city.",
+        "nearbyAreas": [
+          "Jeffersontown",
+          "St. Matthews",
+          "Shively"
+        ]
+      },
+      {
+        "city": "Jeffersontown",
+        "slug": "jeffersontown-ky",
+        "state": "KY",
+        "content": "Cundiff Electric Inc extends its expert electrical services to Jeffersontown, Kentucky, a thriving community known for its blend of residential charm and commercial activity. We are dedicated to providing reliable and efficient electrical solutions to homeowners and businesses in Jeffersontown. Our team of skilled electricians is equipped to handle a wide range of projects, from routine maintenance to complex installations.\n\nWe understand the importance of safety and quality workmanship. That's why we adhere to the highest industry standards and use only top-quality materials. Whether you need assistance with lighting upgrades, electrical panel repairs, or new construction wiring, Cundiff Electric Inc is committed to delivering exceptional service and exceeding your expectations in Jeffersontown.",
+        "localContext": "Jeffersontown is a growing suburban area with a mix of residential and commercial properties. We are familiar with the area's unique electrical requirements.",
+        "nearbyAreas": [
+          "Louisville",
+          "Middletown",
+          "Anchorage"
+        ]
+      },
+      {
+        "city": "St. Matthews",
+        "slug": "st-matthews-ky",
+        "state": "KY",
+        "content": "Cundiff Electric Inc is pleased to offer comprehensive electrical services to the residents and businesses of St. Matthews, Kentucky. Known for its bustling commercial district and established neighborhoods, St. Matthews presents a variety of electrical needs. We are committed to providing prompt, professional, and reliable services to ensure the safety and efficiency of your electrical systems.\n\nFrom troubleshooting electrical issues to installing new outlets and lighting fixtures, our team of experienced electricians is equipped to handle any project, big or small. We understand the unique challenges of working in older homes and commercial buildings, and we have the expertise to provide tailored solutions that meet your specific needs. Cundiff Electric Inc is your trusted partner for all your electrical needs in St. Matthews.",
+        "localContext": "St. Matthews is a vibrant area with a mix of residential areas and shopping centers. We understand the electrical needs of both homes and businesses in this area.",
+        "nearbyAreas": [
+          "Louisville",
+          "Lyndon",
+          "Indian Hills"
+        ]
+      },
+      {
+        "city": "Middletown",
+        "slug": "middletown-ky",
+        "state": "KY",
+        "content": "Cundiff Electric Inc proudly serves the Middletown, Kentucky community with a full suite of electrical services. Middletown's mix of historic homes and new developments requires a versatile and knowledgeable electrician. Our team is equipped to handle everything from updating older wiring to installing modern smart home systems.\n\nWe prioritize safety and customer satisfaction above all else. Whether you're dealing with a power outage, planning a renovation, or simply need a routine electrical inspection, Cundiff Electric Inc provides prompt, reliable, and affordable service. We are committed to ensuring the electrical safety and efficiency of your home or business in Middletown.",
+        "localContext": "Middletown is a growing community with a blend of residential and commercial properties. We understand the electrical needs of this dynamic area.",
+        "nearbyAreas": [
+          "Jeffersontown",
+          "Anchorage",
+          "Louisville"
+        ]
+      },
+      {
+        "city": "Anchorage",
+        "slug": "anchorage-ky",
+        "state": "KY",
+        "content": "Cundiff Electric Inc is dedicated to providing exceptional electrical services to the residents of Anchorage, Kentucky. Known for its beautiful estates and lush landscapes, Anchorage demands a high level of expertise and attention to detail. Our team of licensed electricians is committed to delivering top-quality workmanship and unparalleled customer service.\n\nWe understand the unique electrical needs of older and luxury homes, and we have the skills and experience to handle any project with precision and care. From installing custom lighting systems to upgrading electrical panels, Cundiff Electric Inc is your trusted partner for all your electrical needs in Anchorage. We are committed to ensuring the safety, efficiency, and beauty of your home's electrical system.",
+        "localContext": "Anchorage is an affluent residential area with large, established homes. We understand the unique electrical needs of these properties.",
+        "nearbyAreas": [
+          "Middletown",
+          "Jeffersontown",
+          "Lyndon"
+        ]
+      },
+      {
+        "city": "Lyndon",
+        "slug": "lyndon-ky",
+        "state": "KY",
+        "content": "Cundiff Electric Inc is proud to offer comprehensive electrical services to the community of Lyndon, Kentucky. Lyndon's mix of residential homes and businesses requires a versatile electrical contractor. We are dedicated to providing prompt, reliable, and affordable services to ensure the safety and efficiency of your electrical systems.\n\nWhether you're facing an electrical emergency, planning a home renovation, or simply need routine maintenance, our team of experienced electricians is here to help. We understand the importance of quality workmanship and customer satisfaction, and we strive to exceed your expectations with every project. Trust Cundiff Electric Inc for all your electrical needs in Lyndon.",
+        "localContext": "Lyndon is a well-established residential area with a strong sense of community. We are familiar with the area's electrical requirements.",
+        "nearbyAreas": [
+          "St. Matthews",
+          "Anchorage",
+          "Louisville"
+        ]
+      },
+      {
+        "city": "Shively",
+        "slug": "shively-ky",
+        "state": "KY",
+        "content": "Cundiff Electric Inc proudly serves the Shively, Kentucky area, providing reliable and affordable electrical services to homes and businesses. We understand the specific needs of this community and are committed to offering prompt and professional solutions for all your electrical requirements.\n\nOur team of experienced electricians is equipped to handle a wide range of projects, from simple repairs to complex installations. We prioritize safety and quality workmanship, ensuring that your electrical systems are functioning efficiently and reliably. Whether you need help with wiring, lighting, or panel upgrades, Cundiff Electric Inc is your trusted partner in Shively.",
+        "localContext": "Shively is a diverse community with a mix of residential and industrial areas. We are experienced in addressing the electrical needs of both.",
+        "nearbyAreas": [
+          "Louisville",
+          "Pleasure Ridge Park",
+          "Valley Station"
+        ]
+      },
+      {
+        "city": "Valley Station",
+        "slug": "valley-station-ky",
+        "state": "KY",
+        "content": "Cundiff Electric Inc extends its expert electrical services to Valley Station, Kentucky. We are committed to providing top-notch electrical solutions to the residents and businesses. Our team of skilled electricians is equipped to handle a wide range of services, including electrical repairs, installations, and maintenance. We prioritize safety, efficiency, and customer satisfaction in every project we undertake.\n\nWhether you need assistance with lighting upgrades, electrical panel replacements, or new wiring installations, Cundiff Electric Inc is here to help. We understand the unique electrical needs of Valley Station and are dedicated to delivering reliable and affordable services that meet your specific requirements.",
+        "localContext": "Valley Station is a suburban neighborhood with a mix of residential and commercial properties. We understand the area's unique electrical needs.",
+        "nearbyAreas": [
+          "Pleasure Ridge Park",
+          "Shively",
+          "Louisville"
+        ]
+      },
+      {
+        "city": "Pleasure Ridge Park",
+        "slug": "pleasure-ridge-park-ky",
+        "state": "KY",
+        "content": "Cundiff Electric Inc is pleased to offer comprehensive electrical services to the community of Pleasure Ridge Park, Kentucky. We understand the unique needs of homeowners and businesses in this area and are committed to providing reliable and affordable solutions. Our team of experienced electricians is equipped to handle a wide range of projects, from simple repairs to complex installations.\n\nWhether you need assistance with electrical troubleshooting, lighting upgrades, or new construction wiring, Cundiff Electric Inc is here to help. We prioritize safety, quality workmanship, and customer satisfaction. We strive to exceed your expectations with every project we undertake in Pleasure Ridge Park.",
+        "localContext": "Pleasure Ridge Park is a residential area with a strong sense of community. We are familiar with the electrical requirements of homes in this area.",
+        "nearbyAreas": [
+          "Valley Station",
+          "Shively",
+          "Louisville"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Electrical Repair",
+        "text": "Cundiff Electric was a lifesaver! Our lights went out during a storm, and they came out within an hour. The electrician was professional and quickly fixed the problem. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Panel Upgrade",
+        "text": "We needed to upgrade our electrical panel to handle our new appliances. Cundiff Electric provided a competitive quote and completed the job efficiently. Very happy with the results.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Lighting Installation",
+        "text": "Cundiff Electric installed new recessed lighting in our kitchen, and it looks amazing! The electrician was very knowledgeable and provided great suggestions. The price was fair, and the work was excellent.",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Generator Installation",
+        "text": "Living in Louisville, we're used to power outages. Cundiff Electric installed a whole-house generator, and it's given us peace of mind knowing we'll have power during the next storm. The installation was smooth, and the team was great to work with.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Jessica R.",
+        "rating": 4,
+        "service": "Commercial Electrical Services",
+        "text": "Cundiff Electric has been our go-to electrician for our restaurant for years. They are always responsive, professional, and get the job done right. They recently helped us with a lighting upgrade, and it made a huge difference in the ambiance of our dining room.",
+        "date": "2024-07-28"
+      },
+      {
+        "name": "Michael T.",
+        "rating": 5,
+        "service": "Electrical Repair",
+        "text": "Had a tricky wiring issue in my old house in the Highlands. Cundiff Electric diagnosed the problem quickly and repaired it with no fuss. Great service and reasonable prices.",
+        "date": "2025-02-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Cundiff Electric - Louisville Electrician",
+        "description": "Reliable electrical services in Louisville, KY. Expert repairs, installations, and panel upgrades. Call +15025584635 for a free estimate."
+      },
+      "about": {
+        "title": "About Cundiff Electric Inc.",
+        "description": "Learn about Cundiff Electric's commitment to quality, safety, and customer satisfaction in Louisville, Kentucky."
+      },
+      "services": {
+        "title": "Cundiff Electric Services",
+        "description": "Comprehensive electrical services in Louisville. Repairs, installations, lighting, panel upgrades, and generator services."
+      },
+      "contact": {
+        "title": "Contact Cundiff Electric",
+        "description": "Contact Cundiff Electric for reliable electrical services in Louisville, KY. Get a free estimate today!"
+      },
+      "reviews": {
+        "title": "Cundiff Electric Reviews",
+        "description": "Read reviews from satisfied Cundiff Electric customers in Louisville, Kentucky. See why we're the trusted choice for electrical services."
+      },
+      "service-areas": {
+        "title": "Electrical Service Areas",
+        "description": "Cundiff Electric provides electrical services in Louisville and surrounding areas. See our full service area list."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "electrical-repair": "/images/service-electrical-repair.webp",
+      "electrical-installation": "/images/service-electrical-installation.webp",
+      "lighting-services": "/images/service-lighting-services.webp",
+      "panel-upgrades": "/images/service-panel-upgrades.webp",
+      "generator-installation": "/images/service-generator-installation.webp",
+      "commercial-electrical-services": "/images/service-commercial-electrical-services.webp"
+    },
+    "servicesResponsive": {
+      "electrical-repair": {
+        "src": "/images/service-electrical-repair.webp",
+        "srcset": "/images/service-electrical-repair-400w.webp 400w, /images/service-electrical-repair-800w.webp 800w, /images/service-electrical-repair-1200w.webp 1200w, /images/service-electrical-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "electrical-installation": {
+        "src": "/images/service-electrical-installation.webp",
+        "srcset": "/images/service-electrical-installation-400w.webp 400w, /images/service-electrical-installation-800w.webp 800w, /images/service-electrical-installation-1200w.webp 1200w, /images/service-electrical-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "lighting-services": {
+        "src": "/images/service-lighting-services.webp",
+        "srcset": "/images/service-lighting-services-400w.webp 400w, /images/service-lighting-services-800w.webp 800w, /images/service-lighting-services-1200w.webp 1200w, /images/service-lighting-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "panel-upgrades": {
+        "src": "/images/service-panel-upgrades.webp",
+        "srcset": "/images/service-panel-upgrades-400w.webp 400w, /images/service-panel-upgrades-800w.webp 800w, /images/service-panel-upgrades-1200w.webp 1200w, /images/service-panel-upgrades.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "generator-installation": {
+        "src": "/images/service-generator-installation.webp",
+        "srcset": "/images/service-generator-installation-400w.webp 400w, /images/service-generator-installation-800w.webp 800w, /images/service-generator-installation-1200w.webp 1200w, /images/service-generator-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-electrical-services": {
+        "src": "/images/service-commercial-electrical-services.webp",
+        "srcset": "/images/service-commercial-electrical-services-400w.webp 400w, /images/service-commercial-electrical-services-800w.webp 800w, /images/service-commercial-electrical-services-1200w.webp 1200w, /images/service-commercial-electrical-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
